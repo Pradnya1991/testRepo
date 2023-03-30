@@ -4,4 +4,5 @@ if(string==reverse_string):
      print("sring is palindrome")
 else:
      print("string is not a palindrome")
-     
+
+thank you
